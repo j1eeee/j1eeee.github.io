@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![image](/images/KakaoTalk_Photo_2021-11-12-15-35-16 2.png)
 Name: Jaewon Choi
 
 Education: B.S. in Computer Science At Korea University
