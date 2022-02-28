@@ -7,13 +7,11 @@ Name: Jaewon Choi
 
 Education: B.S. in Computer Science At Korea University
 
-### More Information
+### Experiences
 
-Experiences:
+Undergraduate Lab Intern at System Intelligence Lab
 
-    - Undergraduate Lab Intern at System Intelligence Lab
-
-    - Data Engineer Intern at Thingsflow(Krafton)
+Data Engineer Intern at Thingsflow(Krafton)
     
 
 ### Contact me
