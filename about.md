@@ -3,12 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+Name: Jaewon Choi
 
-College Student working towards a B.S. in Computer Science and Engineering at Korea University
+Education: B.S. in Computer Science At Korea University
 
 ### More Information
 
-Not yet provided
+Experiences:
+
+    - Undergraduate Lab Intern at System Intelligence Lab
+
+    - Data Engineer Intern at Thingsflow(Krafton)
+    
 
 ### Contact me
 
